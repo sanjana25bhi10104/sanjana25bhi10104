@@ -10,9 +10,9 @@
 ---
 
 ## **🎯 Learning Goal**
-### **"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."**
+### **I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics.**
 
 ---
 
 ### **📫 Connect with me**
-***LinkedIn:** [[My profile]](https://www.linkedin.com/in/sanjana-maity-20400b3bb/)
+**LinkedIn:** [[My profile]](https://www.linkedin.com/in/sanjana-maity-20400b3bb/)
