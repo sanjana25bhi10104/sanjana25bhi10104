@@ -10,7 +10,7 @@
 ---
 
 ## **🎯 Learning Goal**
-###**"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."**
+### **"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."**
 
 ---
 
