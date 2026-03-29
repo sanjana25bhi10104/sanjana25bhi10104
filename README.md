@@ -3,14 +3,14 @@
 # Sanjana Maity 
 
 ## **🎓 Academic Profile**
-* [cite_start]**Branch:** **B.Tech Computer Science and Engineering (Health Informatics)** [cite: 34]
-* [cite_start]**Year:** **First Year, Second Semester** [cite: 34]
-* [cite_start]**Institution:** **VIT Bhopal University** [cite: 1]
+* **Branch:** **B.Tech Computer Science and Engineering (Health Informatics)**
+* **Year:** **First Year, Second Semester**
+* **Institution:** **VIT Bhopal University**
 
 ---
 
 ## **🎯 Learning Goal**
-### [cite_start]**"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."** [cite: 34]
+###**"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."**
 
 ---
 
