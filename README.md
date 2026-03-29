@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**sanjana25bhi10104/sanjana25bhi10104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sanjana Maity 
 
-Here are some ideas to get you started:
+## **🎓 Academic Profile**
+* [cite_start]**Branch:** **B.Tech Computer Science and Engineering (Health Informatics)** [cite: 34]
+* [cite_start]**Year:** **First Year, Second Semester** [cite: 34]
+* [cite_start]**Institution:** **VIT Bhopal University** [cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **🎯 Learning Goal**
+### [cite_start]**"I hope to learn how to apply AI and Machine Learning techniques to solve complex challenges in the field of Health Informatics."** [cite: 34]
+
+---
+
+### **📫 Connect with me**
+* [cite_start]**LinkedIn:** [[Insert your profile link here]](https://www.linkedin.com/in/sanjana-maity-20400b3bb/) [cite: 33]
