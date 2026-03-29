@@ -15,4 +15,4 @@
 ---
 
 ### **📫 Connect with me**
-* [cite_start]**LinkedIn:** [[Insert your profile link here]](https://www.linkedin.com/in/sanjana-maity-20400b3bb/) [cite: 33]
+***LinkedIn:** [[My profile]](https://www.linkedin.com/in/sanjana-maity-20400b3bb/)
